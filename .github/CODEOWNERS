@@ -1,0 +1,18 @@
+# ==========================================
+# ARCHIVO CODEOWNERS
+# ==========================================
+*                           @DevOps
+
+# Carpeta de documentación (Dueños: Análisis y Requerimientos)
+/docs/                      @Analisis
+
+# Backend (Dueños según su especialidad)
+/src/backend/core/         @BackendNucleo
+/src/backend/services/     @BackendServicio
+
+# Frontend (Dueños según su especialidad)
+/src/web/                  @FronteraWeb
+/src/mobile/               @ExperienciaMovil
+
+# Pruebas (Dueños: QA)
+/tests/                    @QA
